@@ -4,7 +4,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [About](#about)
-* [How does a switch work?](#how)
+* [How does a switch work?](#how-does-a-switch-work)
 * [Implementation](#implementation)
 
 
@@ -12,7 +12,7 @@
 ## About 
 
 <!-- HOW DOES A SWITCH WORK -->
-## How
+## How does a switch work?
 
 <!-- IMPLEMENTATION -->
 ## implementation 
