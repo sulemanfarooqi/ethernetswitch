@@ -2,17 +2,17 @@
 
 
 <!-- TABLE OF CONTENTS -->
-##Table of Contents
+## Table of Contents
 * [About](#about)
 * [How does a switch work?](#how)
 * [Implementation](#implementation)
 
 
 <!-- ABOUT -->
-##About 
+## About 
 
 <!-- HOW DOES A SWITCH WORK -->
-##How
+## How
 
 <!-- IMPLEMENTATION -->
-##implementation 
+## implementation 
